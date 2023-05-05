@@ -1,0 +1,8 @@
+.*
+!.gitignore
+*venv*
+*.ipynb
+!test.ipynb
+/objects/*.obj
+/*.py
+/ICP_Parallel

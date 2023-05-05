@@ -1,0 +1,3 @@
+[submodule "icp_lib"]
+	path = icp_lib
+	url = https://github.com/Sometimesfunny/icp_cuda.git
